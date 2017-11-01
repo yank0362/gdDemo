@@ -30,7 +30,4 @@ imagepng($img_handler);
 //5、销毁资源
 
 imagedestroy($img_handler);
-
-
-
  ?>
